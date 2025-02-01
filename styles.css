@@ -1,0 +1,89 @@
+.ellipsis {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 5px;
+  padding-bottom: 3px;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  margin: 0%;
+}
+.bookmark {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 5px;
+}
+.sunset {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 400px;
+  border-left-style: solid;
+  border-color: black;
+  border-right-style: solid;
+  border-color: black;
+}
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-top-style: solid;
+  border-color: black;
+  border-left-style: solid;
+  border-color: black;
+  border-right-style: solid;
+  border-color: black;
+  background-color: white;
+  align-items: center;
+}
+.post-body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-bottom-style: solid;
+  border-color: black;
+  border-left-style: solid;
+  border-color: black;
+  border-right-style: solid;
+  border-color: black;
+  padding-top: 5px;
+  background-color: white;
+}
+.left {
+  padding-left: 5px;
+}
+.liked {
+  padding-left: 5px;
+}
+.fivelogo {
+  padding-left: 5px;
+  height: 30px;
+  width: 30px;
+  margin:auto 0;
+}
+.html {
+  padding-left: 5px;
+  margin-bottom: 0px;
+}
+.post {
+  background-color: black;
+  margin: auto;
+}
+.name {
+  padding-left: 5px;
+}
+.liked {
+  padding-left: 5px;
+}
+.lorem {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.haha {
+  display: flex;
+}
